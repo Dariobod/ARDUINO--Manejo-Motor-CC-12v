@@ -1,10 +1,14 @@
 /* 
  Ejemplo de control de motor DC usando modulo L298
  http://electronilab.co/tienda/driver-dual-para-motores-full-bridge-l298n/
+
  
  Creado 16/05/14
  por Andres Cruz
  ELECTRONILAB.CO
+ 
+ Modificado por Dario 04/04/2016
+ 
  */
 
 int IN3 = 5;    // Input3 conectada al pin 5
